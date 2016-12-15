@@ -48,7 +48,7 @@ Page的Layout应该由产品经理或设计师来绘制，同时工程师应该�
 
 ####S-Symbol 元件
 
-元件Symbol是最小的界面元素，是Unit的组成部分或者本身就是一个简单的Unit。 
+元件Symbol是最小的界面元素，Symbol是Unit的组成部分或者Symbol本身就是一个简单的Unit。 
 
 应该优先考虑现有的界面框架包，比如Web开发中知名的bootstrap这样的产品，对于原生APP开发，Android和iOS都提供了更加优秀的界面元素可以直接使用。  
 
