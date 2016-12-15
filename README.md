@@ -60,7 +60,7 @@ Page的Layout应该由产品经理或设计师来绘制，同时工程师应该�
 
 ##示意图
 
-![PBUS示意图](./imgs/PBUS.png)
+![PBUS示意图](./imgs/PBUS01.png)
 
 
 
